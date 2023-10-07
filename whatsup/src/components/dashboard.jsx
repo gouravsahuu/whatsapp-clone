@@ -18,7 +18,15 @@ function Dashboard() {
 
     return (
         <>
-            
+            <div>
+                WhatsUp
+                <div>
+                    
+                </div>
+            </div>
+            <div>
+
+            </div>
         </>
     );
 }
