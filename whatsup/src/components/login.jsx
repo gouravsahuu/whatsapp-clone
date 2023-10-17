@@ -4,7 +4,7 @@ function Login() {
   const [username, setUsername] = useState('');
 
   const handleLogin = () => {
-    // Add logic here to handle user login and authentication.
+    
   };
 
   return (
